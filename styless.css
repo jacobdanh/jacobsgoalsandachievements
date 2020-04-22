@@ -1,6 +1,6 @@
 h1 {
   position: absolute;
-  left: 280px;
+  left: 230px;
   top: 20px;
   font-size: 40px;
 }
@@ -40,7 +40,7 @@ img {
   border-style: ridge;
   border-width: 2px;
   margin: 20px 20px;
-  left: 650px;
+  left: 450px;
   top: 40px;
 }
 
@@ -65,7 +65,7 @@ p {
 
 .section {
   position: absolute;
-  width:900px;
+  width:820px;
   top: 128px;
   height: 600px;
   background-color: white;
