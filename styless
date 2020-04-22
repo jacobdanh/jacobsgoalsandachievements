@@ -1,0 +1,84 @@
+h1 {
+  position: absolute;
+  left: 280px;
+  top: 20px;
+  font-size: 40px;
+}
+
+button {
+  position: fixed;
+  background-color: #99a7ff;
+  border: black 1px;
+  color: white;
+  padding: 15px 32px;
+  text-align: relative;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  position: absolute;
+  top: 40px;            
+  right: 15px;
+
+}
+
+button {
+  position: fixed;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  position: fixed;
+  background-color: #6c7ff5; 
+  color: white;
+}
+
+img {
+  padding: 10px;
+  width: 300px;
+  position: relative;
+  border-style: ridge;
+  border-width: 2px;
+  margin: 20px 20px;
+  left: 650px;
+  top: 40px;
+}
+
+.about-section {
+  padding: 60px;
+  text-align: center;
+  background-color: #99a7ff;
+  color: white;
+}
+
+p {
+  color: black;
+  font-size: 24px;
+  position: absolute
+  padding: 30px;
+  left: 20px;
+  top: 150px;
+  margin-right: 520px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+
+.section {
+	position: absolute;
+	width:1000px;
+	top: 128px;
+	height: 600px;
+  background-color: white;
+  opacity: 70%; 
+  left: 80px;
+  padding: 20px;
+}
+.meat {
+  position: fixed;
+  right: 0px;
+  width: 210px;
+  background-color: #000f6e;
+  height: 2000px;
+  top: 0px;
+
+}
